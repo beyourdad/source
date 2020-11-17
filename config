@@ -1,0 +1,18 @@
+{
+	"xxHost": "https://android.xiaoxiaoapps.com/",
+	"webSite":"https://linke.lanzoui.com/wxx-aotutv",
+	"xxVer":"2.3.2",
+	"faKaUrl":"http://huananka.com/links/2268B932",
+	"kfQQ":"2074628492",
+	"isForceOld":false,
+	"publicInfo":"",
+	"sourceApiOption":"[
+	{\"name\":\"OK网\",\"url\":\"http://cj.okzy.tv/inc/apickm3u8s.php\",\"isDap\":true},
+	{\"name\":\"百度云\",\"url\":\"https://m3u8.dbyunzy.com/api.php/provide/vod/from/dbm3u8/at/xml\",\"isDap\":false},
+	{\"name\":\"天空网\",\"url\":\"https://m3u8.tiankongapi.com/api.php/provide/vod/at/xml\",\"isDap\":false},
+	{\"name\":\"123资源\",\"url\":\"http://cj.123ku2.com:12315/inc/123kum3u8.php\",\"isDap\":false},
+	{\"name\":\"酷云网\",\"url\":\"http://caiji.kuyun98.com/inc/s_ldg_kkm3u8.php\",\"isDap\":true},
+	{\"name\":\"秒播资源\",\"url\":\"http://caiji.mb77.vip/inc/mbckm3u8.php\",\"isDap\":false},
+	{\"name\":\"209资源\",\"url\":\"http://www.209zy.net/inc/33uuck.php\",\"isDap\":false}
+	]"
+}
